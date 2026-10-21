@@ -13,3 +13,4 @@ pip-delete-this-directory.txt
 # Управление зависимостями (uv / ruff)
 .ruff_cache/
 .uv/
+.python-version
